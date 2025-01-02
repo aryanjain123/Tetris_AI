@@ -6,5 +6,3 @@ based on the following heuristics
 2) Number of holes created
 3) Aggregate Height
 4) Max Height
-   
-Site -> https://aryanjain.itch.io/ai-plays-tetris
